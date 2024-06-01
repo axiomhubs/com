@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="167px" viewBox="0 0 97 167" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="96.031 83.94 0.001 83.94 0.001 0.838 96.031 0.838 96.031 83.94"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="houzz_logo">
+            <g id="Group">
+                <polyline id="Fill-1" fill="#74B943" points="48.016 0.673 0 28.39 0 83.842 48.016 56.117 48.016 0.673"></polyline>
+                <g id="Group-5" transform="translate(0.000000, 83.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-3"></g>
+                    <polyline id="Fill-2" fill="#74B943" mask="url(#mask-2)" points="0.001 0.838 0.001 56.281 48.017 28.548 0.006 0.838 0.001 0.838"></polyline>
+                    <polyline id="Fill-4" fill="#74B943" mask="url(#mask-2)" points="48.016 28.548 48.016 84 96.031 56.277 96.031 0.838 48.016 28.548"></polyline>
+                </g>
+                <polyline id="Fill-6" fill="#74B943" points="48.016 56.121 96.032 83.838 96.032 28.39 48.016 56.121"></polyline>
+                <polyline id="Fill-7" fill="#FFFFFF" points="0.006 83.838 48.016 111.548 48.016 56.121 0.006 83.838"></polyline>
+                <polyline id="Fill-8" fill="#1A1919" points="48.016 111.548 96.032 83.838 48.016 56.121 48.016 111.548"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

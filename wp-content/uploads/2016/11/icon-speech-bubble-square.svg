@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="63px" viewBox="0 0 68 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>communication icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0167236328 0.977539062 0.0609101562 47.9951172 8.10791016 47.9951172 31.047 63 30.9157744 48.0290527 67.9855957 48.0290527 68.0085449 0.977539062"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="67.9918213" height="62.0224609" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="07---ALL-PAGES---SEO-Changes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-us" transform="translate(-756.000000, -1118.000000)">
+            <g id="communication-icon" transform="translate(756.000000, 1118.000000)">
+                <use id="Page-1" stroke="#DA7900" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+                <g id="Group-5" transform="translate(14.000000, 17.000000)" fill="#DA7900">
+                    <polygon id="Path" points="0 0 0 4.99475098 38.9986572 5.01849805 38.9986572 0.0237470703"></polygon>
+                    <polygon id="Path-Copy" points="8.8817842e-15 9 8.8817842e-15 13.994751 21 14.018498 21 9.02374707"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

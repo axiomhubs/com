@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="75px" viewBox="0 0 79 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M98.6225438,29.9391665 C98.6225438,29.4634883 98.4316268,29.0065376 98.0956503,28.6694428 L69.9644057,0.52390147 C69.2662484,-0.174633823 68.1291693,-0.174633823 67.4272686,0.52390147 L63.8924966,4.06433303 L60.3025084,0.472400878 C59.8935343,0.0632052711 59.2281324,0.0632052711 58.8182224,0.472400878 C58.4092482,0.88253286 58.4092482,1.54829505 58.8182224,1.95749066 L62.4082105,5.54942281 L32.5259576,35.4516025 C32.1899811,35.7877609 32,36.2409661 32,36.7203898 C32,37.196068 32.1899811,37.6530187 32.5259576,37.9901135 L60.6572022,66.1356548 C61.0081526,66.4867952 61.464856,66.6628336 61.9262387,66.6628336 C62.3866856,66.6628336 62.843389,66.4867952 63.1943393,66.1356548 L98.0993938,31.2116993 C98.4353702,30.8717954 98.6225438,30.4185902 98.6225438,29.9391665 L98.6225438,29.9391665 Z M75.7003383,22.1916048 C76.9796693,23.472565 79.0563595,23.472565 80.339434,22.1916048 C81.6197009,20.911581 81.6197009,18.8347026 80.339434,17.549997 C79.3530296,16.5668038 77.9014989,16.3467559 76.698909,16.8776801 L66.4258902,6.60284399 L68.696305,4.33119973 L94.2969637,29.9391665 L94.2061845,30.0309312 L52.6180994,20.4181117 L64.9416042,8.08793377 L75.1519199,18.3037783 C74.4762234,19.551029 74.6474872,21.1381836 75.7003383,22.1916048 Z M99.4938609,35.125817 C98.0095749,40.8863923 94.5983374,47.9241822 99.6510867,47.9241822 C104.732848,47.9241822 101.248613,40.9453839 99.4938609,35.125817 Z" id="path-1"></path>
+        <filter x="-10.0%" y="-7.5%" width="119.9%" height="121.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Service-Section" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Finalized" transform="translate(-741.000000, -240.000000)">
+            <g id="Group-18" transform="translate(126.000000, 241.000000)">
+                <g id="Group-15" transform="translate(587.000000, 1.000000)">
+                    <g id="Combined-Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
